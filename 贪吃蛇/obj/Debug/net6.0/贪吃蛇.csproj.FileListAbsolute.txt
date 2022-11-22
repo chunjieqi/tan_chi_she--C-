@@ -1,0 +1,15 @@
+D:\unityChengPin\ConsoleApp1\贪吃蛇\bin\Debug\net6.0\贪吃蛇.exe
+D:\unityChengPin\ConsoleApp1\贪吃蛇\bin\Debug\net6.0\贪吃蛇.deps.json
+D:\unityChengPin\ConsoleApp1\贪吃蛇\bin\Debug\net6.0\贪吃蛇.runtimeconfig.json
+D:\unityChengPin\ConsoleApp1\贪吃蛇\bin\Debug\net6.0\贪吃蛇.dll
+D:\unityChengPin\ConsoleApp1\贪吃蛇\bin\Debug\net6.0\贪吃蛇.pdb
+D:\unityChengPin\ConsoleApp1\贪吃蛇\obj\Debug\net6.0\贪吃蛇.csproj.AssemblyReference.cache
+D:\unityChengPin\ConsoleApp1\贪吃蛇\obj\Debug\net6.0\贪吃蛇.GeneratedMSBuildEditorConfig.editorconfig
+D:\unityChengPin\ConsoleApp1\贪吃蛇\obj\Debug\net6.0\贪吃蛇.AssemblyInfoInputs.cache
+D:\unityChengPin\ConsoleApp1\贪吃蛇\obj\Debug\net6.0\贪吃蛇.AssemblyInfo.cs
+D:\unityChengPin\ConsoleApp1\贪吃蛇\obj\Debug\net6.0\贪吃蛇.csproj.CoreCompileInputs.cache
+D:\unityChengPin\ConsoleApp1\贪吃蛇\obj\Debug\net6.0\贪吃蛇.dll
+D:\unityChengPin\ConsoleApp1\贪吃蛇\obj\Debug\net6.0\refint\贪吃蛇.dll
+D:\unityChengPin\ConsoleApp1\贪吃蛇\obj\Debug\net6.0\贪吃蛇.pdb
+D:\unityChengPin\ConsoleApp1\贪吃蛇\obj\Debug\net6.0\贪吃蛇.genruntimeconfig.cache
+D:\unityChengPin\ConsoleApp1\贪吃蛇\obj\Debug\net6.0\ref\贪吃蛇.dll
